@@ -19,9 +19,9 @@ public class SwitchCase2 {
 			System.out.println("동메달 입니다.");
 			break;
 		
-		default:
-			System.out.println("메달이 없습니다.");
-			break;
+		//default:
+			//System.out.println("메달이 없습니다.");
+			//break;
 		}
 
 	}
